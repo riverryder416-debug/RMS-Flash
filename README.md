@@ -10,7 +10,7 @@ You can download the installer from the Releases section.
 ## 📥 Download & Install
 
 1. Go to the **Releases** tab:
-   - https://github.com/USERNAME/REPO/releases  
+   - [https://github.com/riverryder416-debug/RMS-Flash/releases]
      *(replace USERNAME and REPO with your actual GitHub information)*
 
 2. Download the file:
