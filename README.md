@@ -14,8 +14,3 @@ You can download the installer from the Releases section.
      *(replace USERNAME and REPO with your actual GitHub information)*
 
 2. Download the file:
-
-
-3. Run **Setup.exe** and follow the on-screen instructions.
-
-RMSFlash will install into:
